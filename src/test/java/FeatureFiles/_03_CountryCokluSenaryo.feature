@@ -18,3 +18,17 @@ Feature: Country Multi Scenario
 
     When Create a country name as "temurUlke2" and code as "code2"
     Then Success message should be displayed
+
+    //  Webelement element=driver.findElement(by.id("Interview");
+
+    Select list = new Select(element)
+
+    SelectByVisibleText() select option based on test displayed. Takes String parameters.
+    SelectByIndex() selects option based on the count.Takes int parameters.
+    SelectByValue() select option based on the value of the value attribute. Takes string parameters.
+    Xpath syntax= // tagnem[Qid='value']
+    css=tagname[id=value]
+
+
+
+

@@ -38,6 +38,8 @@ public class _05_CitizenshipSteps {
     public void clickOnCloseButton() {
         dialogContent.findElementAndClickFunction("closeDialog");
     }
-}
 
 
+
+
+    }
